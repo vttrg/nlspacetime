@@ -1,4 +1,4 @@
-# nlspacetime
+# nlwspacetime
 
 Meu terceiro projeto (estou com um 4º em andamento).
 Essa semana foi maravilhosa, pude aprender muito, até porque já tenho conhecimento de bastante aspectos do CSS e ainda sim, sinto dificuldade com a responsividade, foi algo que eu ainda não tive a oportunidade para aprender. 
