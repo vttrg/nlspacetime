@@ -14,7 +14,7 @@ gratificante ver o retorno de horas de estudo.
 Espero que eu consiga trazer mais e mais projetos pra cá daqui pra frente!
 <br>
 <br>
-[Aqui você confere o projeto!](vttrg.github.io/nlwspacetime/)
+[Aqui você confere o projeto!](https://www.figma.com/file/lP57DAPNsb29iGvaHrsriE/Cápsula-do-tempo-•-Trilha-Explorer-(Community)-(Copy)?type=design&node-id=306-3&t=ZhINm3tXYf8ngRDQ-0)
 <br>
 <br>
 <div align="center">
